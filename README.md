@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Sudarshan Rangappa
 
-<!--
-**sudarshan-rangappa/sudarshan-rangappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cybersecurity Expert | 🧠 Blue Teaming | 🛡️ SIEM | SOAR | Honeypots | Threat Hunting
 
-Here are some ideas to get you started:
+- 🌐 [Portfolio](https://sudarshan0101.github.io/portfolio/)
+- 💼 [LinkedIn](https://linkedin.com/in/sudarshan-rangappa)
+- 📫 sudarshan.rangappa@proton.me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+**Blue Teaming:** Splunk, Wazuh, TheHive, Cortex, Zeek, Cowrie, OpenVAS  
+**Scripting:** Bash, PowerShell  
+**Platforms:** Windows Server, Ubuntu, VMware, FlareVM, Remnux
+
+---
+
+## 📊 GitHub Stats
+![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshan-rangappa&show_icons=true&theme=github_dark)
+
+---
+
+## 📌 Projects
+- 🔒 `LLM-fuzzer`: Local LLM-powered intelligent web fuzzer *(private)*  
+- 🛡️ `ICDE`: Integrated Cyber Defense Environment *(multi-VM blue team lab)*  
