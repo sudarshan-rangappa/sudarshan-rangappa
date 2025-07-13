@@ -4,7 +4,7 @@
 
 - 🌐 [Portfolio](https://sudarshan0101.github.io/portfolio/)
 - 💼 [LinkedIn](https://linkedin.com/in/sudarshan-rangappa)
-- 📫 sudarshan.rangappa@proton.me
+- 📫 sudarshan_rangappa@proton.me
 
 ---
 
