@@ -16,9 +16,11 @@ I architect, simulate, and defend against real-world cyber threats — building 
 
 ## 🎓 Certifications
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%20Blue%20Team%20Labs-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/sudarshan0101)  
-[![Practical Ethical Hacking](https://img.shields.io/badge/TCM-PEH-black?style=flat-square&logo=linux)](https://tcm-sec.com)  
-[![Fundamentals of Deep Learning](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-green?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1q0QfwW1JYuPWSss6OX26-n8HJlgc_c9Y/view)  
+[![CEH](https://img.shields.io/badge/EC--Council-CEH%20v11-red?style=flat-square&logo=hackaday)](https://drive.google.com/file/d/1GkKMUh5BsZ0s9CIRRPoQTrq6M4IWyooC/view?usp=drive_link)  
+[![OSINT](https://img.shields.io/badge/OSINT-Research%20and%20Analysis-blue?style=flat-square&logo=security)](https://drive.google.com/file/d/1q0QfwW1JYuPWSss6OX26-n8HJlgc_c9Y/view?usp=drive_link)  
+[![CTI 101](https://img.shields.io/badge/Arcx-CTI%20101-purple?style=flat-square&logo=target)](https://drive.google.com/file/d/19yc59HfKLml43eWuXXbg-y_uOXn43_yu/view?usp=drive_link)  
+[![NVIDIA DL](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-green?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/17iQGcTCNn8S8eR14bm-xLSfD10VpqF5R/view?usp=drive_link)
+
 ---
 
 ## ⚙️ Tech Stack & Expertise
