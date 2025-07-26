@@ -60,11 +60,6 @@ I architect, simulate, and defend against real-world cyber threats — building 
 - Uses local LLMs to generate smart attack payloads  
 - Focus on WAF bypassing and logic flaw detection
 
-### ⚙️ SIEM-SOAR Lab
-> Fully automated lab with Wazuh, TheHive, Cortex, and Shuffle  
-- Custom detection + automated actions  
-- RDP brute-force, privilege escalation, suspicious process execution
-
 ---
 
 ## 📈 GitHub Stats
@@ -78,15 +73,13 @@ I architect, simulate, and defend against real-world cyber threats — building 
 
 ## 🧭 Currently Exploring
 - 🔁 Advanced SOAR logic using Shuffle  
-- 🧠 CTI + Sigma rule customization  
-- ☁️ Cloud threat detection (AWS GuardDuty, Azure Sentinel)  
 - 💣 Offensive LLM fuzzing for web app testing  
 - 📦 Dockerizing blue/red team labs for portability
+- 📈 Building Responsive Portfolio.
 
 ---
 
 ## 🎖️ Highlights
-- 🛠️ OWASP Contribution – First PR on adversarial security tool  
 - 🧪 Building zero-cost blue/red team lab from scratch  
 - 🧑‍💻 Developed private automation playbooks for incident response
 
