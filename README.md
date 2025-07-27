@@ -8,7 +8,7 @@ I architect, simulate, and defend against real-world cyber threats — building 
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-View-informational?style=flat-square&logo=github)](https://sudarshan0101.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-View-informational?style=flat-square&logo=github)](https://sudarshanrangappa.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudarshan-rangappa)
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail)](mailto:sudarshan_rangappa@proton.me)
 
