@@ -62,15 +62,6 @@ I architect, simulate, and defend against real-world cyber threats — building 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudarshan-rangappa&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-rangappa&layout=compact&theme=github_dark" height="180"/>
-</p>
-
----
-
 ## 🧭 Currently Exploring
 - 🔁 Advanced SOAR logic using Shuffle  
 - 💣 Offensive LLM fuzzing for web app testing  
